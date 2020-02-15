@@ -31,3 +31,6 @@ Discord: [https://discord.gg/AJruqAu](https://discord.gg/AJruqAu)
 [MIT course website](http://brendanfong.com/programmingcats.html)
 
 [Lecture videos](https://www.youtube.com/playlist?list=PLhgq-BqyZ7i7MTGhUROZy3BOICnVixETS)
+
+### nLab
+[Homepage](https://ncatlab.org/nlab/show/HomePage)
