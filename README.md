@@ -34,3 +34,6 @@ Discord: [https://discord.gg/AJruqAu](https://discord.gg/AJruqAu)
 
 ### nLab
 [Homepage](https://ncatlab.org/nlab/show/HomePage)
+
+### All Our Ideas - Future discussion topics survey
+[http://www.allourideas.org/cats-funprog](http://www.allourideas.org/cats-funprog)
